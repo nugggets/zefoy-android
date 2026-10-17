@@ -1,0 +1,28 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+/.vscode
+/build
+**/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# GitHub Actions temp
+.github/keys/
+keystore.properties
